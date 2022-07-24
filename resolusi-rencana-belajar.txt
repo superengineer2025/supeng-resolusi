@@ -6,3 +6,5 @@ RENCANA RESOLUSI BELAJAR DEVOPS ENGINEER
   * Provisioning dengan Python
 - Pahami Aplikasi Prometheus dengan baik
   * Integrasi prometheus dan alert manager
+  * Automation Task Using Python
+- Pahami Aplikasi Monitoring dengan baik

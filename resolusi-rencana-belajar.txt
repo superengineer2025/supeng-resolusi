@@ -4,3 +4,5 @@ RENCANA RESOLUSI BELAJAR DEVOPS ENGINEER
   * Collect Information System and Create Crontab
 - Pahami Python For Devops dengan baik
   * Provisioning dengan Python
+- Pahami Aplikasi Prometheus dengan baik
+  * Integrasi prometheus dan alert manager

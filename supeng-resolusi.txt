@@ -1,0 +1,8 @@
+SUPENG RESOLUSI
+- Konsisten belajar track devops yang sudah di susun dan direncanakan
+- Menguasai dengan baik Linux System Administration
+- Menguasai 4 Fase untuk menjadi devops
+  * Fase Pertama > Mempelajari Continous Integration dan Continous Delivery (CI/CD) Workflow
+  * Fase Kedua   > Mempelajari Infrastructure as a Code (IaaC)
+  * Fase Ketiga  > Mempelajari Container dan Container Orchestration
+  * Fase Keempat > Mempelajari Public Cloud and Many More

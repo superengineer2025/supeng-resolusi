@@ -6,3 +6,5 @@ SUPENG RESOLUSI
   * Fase Kedua   > Mempelajari Infrastructure as a Code (IaaC)
   * Fase Ketiga  > Mempelajari Container dan Container Orchestration
   * Fase Keempat > Mempelajari Public Cloud and Many More
+- Menguasai dengan baik Aplikasi Ansible, Chef, dan sejenisnya
+- Menguasai dengan baik Aplikasi Monitoring Seperti Grafana dan sejenisnya

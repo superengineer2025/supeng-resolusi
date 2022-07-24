@@ -1,0 +1,5 @@
+RENCANA RESOLUSI BELAJAR DEVOPS ENGINEER
+- Pahami Script Bash dengan baik
+  * Automation dengan Bash Script
+- Pahami Python For Devops dengan baik
+  * Provisioning dengan Python

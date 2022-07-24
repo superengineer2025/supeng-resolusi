@@ -5,3 +5,4 @@ RENCANA RESOLUSI BELAJAR DEVOPS ENGINEER
 - Pahami Python For Devops dengan baik
   * Provisioning dengan Python
   * Automation Task Using Python
+- Pahami Aplikasi Monitoring dengan baik

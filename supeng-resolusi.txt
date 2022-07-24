@@ -8,3 +8,4 @@ SUPENG RESOLUSI
   * Fase Keempat > Mempelajari Public Cloud and Many More
 - Menguasai dengan baik Aplikasi Ansible, Chef, dan sejenisnya
 - Menguasai dengan baik Aplikasi Monitoring Seperti Grafana dan sejenisnya
+- Beli Laptop Spek Tinggi

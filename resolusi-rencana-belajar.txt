@@ -4,3 +4,4 @@ RENCANA RESOLUSI BELAJAR DEVOPS ENGINEER
   * Collect Information System and Create Crontab
 - Pahami Python For Devops dengan baik
   * Provisioning dengan Python
+  * Automation Task Using Python

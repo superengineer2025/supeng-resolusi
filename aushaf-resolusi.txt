@@ -1,0 +1,5 @@
+Halo PAk SuperEngineer, Nama Saya Aushaf dari Bekasi
+
+Dan ini resolusi saya :
+- Membuat website menggunakan framework python
+- Bekerja distartup luar negeri

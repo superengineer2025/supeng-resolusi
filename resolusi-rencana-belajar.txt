@@ -8,3 +8,5 @@ RENCANA RESOLUSI BELAJAR DEVOPS ENGINEER
   * Integrasi prometheus dan alert manager
   * Automation Task Using Python
 - Pahami Aplikasi Monitoring dengan baik
+  * Grafana 
+  * Kibana
